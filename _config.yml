@@ -30,7 +30,7 @@ github_username:  reinaldorauch
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-chirpy
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 

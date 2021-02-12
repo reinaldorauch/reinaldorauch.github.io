@@ -26,7 +26,7 @@ $ sudo mv /etc/php/conf.d/xdebug.ini /etc/php/conf.d/xdebug.ini.bak
 
 Then, now we can insert these configurations in apache2. Opening the `/etc/httpd/conf/extra/php_module.conf` file we will see something like this: (it comes with the libapache2-php-module package)
 
-```ApacheConf
+```apache
 # Required modules: dir_module, php_module
 
 <IfModule dir_module>
@@ -47,7 +47,7 @@ Just add these lines before the closing of the inner IfModule directive:
 
 as such:
 
-```ApacheConf
+```apache
 # Required modules: dir_module, php_module
 
 <IfModule dir_module>

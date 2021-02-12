@@ -3,8 +3,6 @@ layout: post
 title: "Enabling XDebug for apache2 in php in Manjaro"
 ---
 
-# Enabling XDebug only for apache2 in php in Manjaro #
-
 So, when you're developing PHP locally normally you want a development environment so that you can easly debug your app. The _de-facto_ extension to do so in PHP is XDebug. In Manjaro, the instalation of XDebug is simple:
 
 ```bash

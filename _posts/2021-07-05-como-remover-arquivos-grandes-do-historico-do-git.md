@@ -13,7 +13,7 @@ O que aconteceu é que adicionou no seu repositório arquivos muito grandes que 
 
 Aqui vou falar de quando vc adicionou arquivos grandes ao repositório por engano. Por exemplo: vc copiou vários arquivos pra pasta comitou tudo usando o `git add .`.
 
-Se a adição que vc fez aconteceu no _último_ commit vc pode rodar o comando git reset HEAD~1 para desfazer o último commit e aí a referência ao arquivo nem chega a entrar no repositório. Entretanto se a adição ocorreu em commits anteriores então o buraco é mais embaixo devido a como o git salva os arquivos para versioná-los. [Esse vídeo](https://youtu.be/6Czd1Yetaac) do Fábio Akita explica melhor como funciona.
+Se a adição que vc fez aconteceu no _último_ commit vc pode rodar o comando `git reset HEAD~1` para desfazer o último commit e aí a referência ao arquivo nem chega a entrar no repositório. Entretanto se a adição ocorreu em commits anteriores então o buraco é mais embaixo devido a como o git salva os arquivos para versioná-los. [Esse vídeo](https://youtu.be/6Czd1Yetaac) do Fábio Akita explica melhor como funciona.
 
 Mas então como posso remover esses arquivos grandes do repositório? 
 

@@ -1,9 +1,8 @@
 ---
 title: Como remover arquivos grandes do histórico do git
-layout: default
+layout: post
+comments: true
 ---
-
-# Como remover arquivos grandes do histórico do git #
 
 Então você tentou enviar as tuas alterações pro github e deu esse erro aqui:
 

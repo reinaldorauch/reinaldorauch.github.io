@@ -61,3 +61,10 @@ E pronto! Você removeu os arquivos maiores de 100MB do seu repo! O BFG tem outr
 Muito obrigado pela leitura, espero ter ajudado.
 
 Reinaldo
+
+PS: Referências
+
+* [Site BFG](https://rtyley.github.io/bfg-repo-cleaner/)
+* [Vídeo do Akita](https://youtu.be/6Czd1Yetaac)
+* [Documentação do GitHub](https://docs.github.com/en/github/managing-large-files/working-with-large-files/removing-files-from-a-repositorys-history)
+* [Limite do tamanho de arquivos nos repos do github](https://nulab.com/blog/product-updates/backlog/new-size-limits-git-repositories-files-sept-2020/)

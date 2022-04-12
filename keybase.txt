@@ -1,0 +1,88 @@
+==================================================================
+https://keybase.io/reinaldorauch
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://reinaldorauch.dev.br
+  * I am reinaldorauch (https://keybase.io/reinaldorauch) on keybase.
+  * I have a public key with fingerprint 0476 7EEE 2CAD F275 2C50  F9A6 A9BF AFC5 C124 09DE
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a65bd77a32947b26e690a70c98a81f0ce34ba8ed33630fd51607dfebf62022d40a",
+      "fingerprint": "04767eee2cadf2752c50f9a6a9bfafc5c12409de",
+      "host": "keybase.io",
+      "key_id": "a9bfafc5c12409de",
+      "kid": "0101d1f5b86ef9452d93c2de6a181b237a2881efbe274d2d28a91796198749b2604c0a",
+      "uid": "3bbb02b258d5b405d443c31c1aba9619",
+      "username": "reinaldorauch"
+    },
+    "merkle_root": {
+      "ctime": 1649789817,
+      "hash_meta": "5468cdf65d713fd55130ad7603153d075b3d59e6898610b248347d7b9891c422",
+      "seqno": 22281641
+    },
+    "revoke": {
+      "sig_ids": [
+        "38e6161a8f8c62a8c9787a719d5d47cafba0bf7be1d822ac5035f70a640a711d0f"
+      ]
+    },
+    "service": {
+      "hostname": "reinaldorauch.dev.br",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1649789828,
+  "expire_in": 157680000,
+  "prev": "b0f022c46842ad30c078d4bd206fad3c558c6f68b0d93a28edb96ce853f24d1b",
+  "seqno": 61,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMQDAnicbVNrbFRFGG0LNe2mSLFiykvkloektc7MfczcRYRgU94QRIyAsMzcmdtu
+d7t3ubvdlpQSqygWyiNQ5WUQKY8Ygk0VCaQYpIhEKyrUSmsQJJBiS2lF0DQawNlG
+YmK4f25mcs75zne+b74Y0C/Bk/jhibrTJ0enXkpsalxdksAWNK0uV5jDVyjeciUg
++n4iyEUk6gv4ueJVAESAGjrjGFMVmRpmyBCGCSgGlkkogTawhKoxSgRXVUMFNteh
+ATC3BbMNBBDiGqBKjmL7QwXCDbv+UDQuq2EDCyGQRbmNsI4sHdgmNajJbGpbugWR
+BkwuJLHQicQZ0hyjEZHrd+SdPPj67D0E/8A3gBzaOiOGsE1NR9xULcSFQSGBDKmY
+IkKgsJlAWOOII0JNiE0DmgRrpmwSaFaf75I+OZUxBhBDOuE604DONU21VGhBymic
+FAdGhBuixUKiXeEP0SB3XFpiFSoVOUqxcANB4XMdJxpP2Ir64zhoaCYmJoFYdkkj
+hb5iEaWSrmsGsbht6BxDVeapQxVQjg2gQl3lAOtM5bopDEk1IGBII6qGOWYmMaGl
+ISTNRMTykKN4EUJEVoHSgitiTkDEq0f8BTK8iOJdrKhEGNCAlNjEMhAllvSDKYYm
+lx1ii9qMAmZjJiAnCFE5JFW3sVwIOVMMIQe2sqQiXs2N+a0+8fi0HpZCLhexXOZK
+a2HXiTqWE5SIwmg0HPHGA4quCMcppYL5/hXzMX+Iy52RjJhwI34nJAOTyP9lh0iO
+IsrCflf4/HGEjg0C5BevI2JSkgFbLqElI9UQ5SqwACZcYxwBw5ZnS9dl67ZBGJAb
+IpdCcGYaliC6aiONQ/ZfmAaUPmmB1JQJhmi0xBVKRePJV/snJHoSHklOij+mBE9q
++oMnNtAz8F5u+Z6bLWtiFZ99uvcD/0ehhqJR485etv6a8sm93plPVHXcvupNnt/Q
+GZw90qy9WH5u8uu7Tv1AavI/z+s8l/PW4V0brv8UqvbMfC+0ryD4VMrJbZk3RlwN
+ZPdcS7nhTGkJ1/U2NjfUtB2eO926sV5N77pY09FZPTlrefdXZkYGmbgx/076gbKk
+9qLGMXlTt9W3zZj+nbi/f8OPXTuU1uK5BejrlJ4zypnonflpWVufdNrTbTCvaVzW
+/lpLbfv1wjtj//xF2b64f2b1eM0qvbhj/bFDHR485NHbNZeyd54ofz69PLPq++ot
+qddSe5qGdCWvnbfpULj1YGBt6YjsilW+Xc6k4Rl160ZUHd/ZsOzFquCxPZdTnlk5
+N2PQrMvNm8Q0u1NpJK03Jx1Jy+7y7Kld9vPBs0NPrexGzz12+3xeWfsgd8xLb5YM
+bu/+tmH8sS97fc9WzqGzZ+w7frQ4mLQg7VZL1v2RE0oHJ7GSrrL6C9WVq1Lutgzr
+Odp0IeFAv2Vt1/SxZWffuIuuPD12/ynL3uGM6s79+7fmokVLJw8LF057PLMmtnv+
+7pcLK2ebf9QcOfDxVPzu7/mjJ3TcOr9wb6T9yLq0g8PfThq4ZskaM/lW4mvRoc1l
+72ccfaH+RFFgKDfzD+cs+mb5Pq8zK3FLXde9tU0LW92t13teGbBx8+aUpUpRbdPE
+SxPG583ZfmXz1p7e06HK+n8AYs0Ixg==
+=VuHp
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/reinaldorauch
+
+==================================================================

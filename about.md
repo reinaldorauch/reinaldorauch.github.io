@@ -7,7 +7,7 @@ permalink: /about/
 ## Links
 
 * [Linkedin](https://linkedin.com/in/reinaldorauch) 
-* [GitHub](https://gihub.com/reinaldorauch)
+* [GitHub](https://github.com/reinaldorauch)
 * [Twitter](https://twitter.com/reinaldorauch)
 * [Facebook](https://facebook.com/reinaldo.rauch)
 * [Twitch](https://twich.tv/reinaldorauch)

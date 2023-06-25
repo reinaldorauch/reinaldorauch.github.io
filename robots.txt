@@ -1,3 +1,3 @@
 User-agent: *
 Disallow: /contact.html
-Disallow: /cgi-bin
+Disallow: /cdn-cgi

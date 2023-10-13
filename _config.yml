@@ -26,6 +26,8 @@ defaults:
     values:
       layout: "post"
 
+lang: "pt-BR"
+
 future: true
 
 # the base hostname & protocol for your site, e.g. http://example.com

@@ -85,9 +85,9 @@ DESCRIPTION
 
 It does the heavy lifting of going to the specified repo URL and asks for the missnig objects that we want to download. You'll need to specify the URL because this is a more low level command that the more-usually-used `git fetch` uses to do it's work. So as for example:
 
-´´´bash
+```bash
 git fetch-pack git@github.com:reinaldorauch/reinaldorauch.dev.br.git 
-´´´
+```
 
 Will download the entire tree of missing objects from the specified repo to our own. But we will pass as arguments the object ids that we want so it will limit it's search to only objects that lead to them.
 

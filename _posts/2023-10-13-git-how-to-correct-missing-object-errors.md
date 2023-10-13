@@ -5,7 +5,10 @@ comments: true
 lang: "en-US"
 ---
 
+
 ## The problem
+
+<a href="#tldr">go to tldr</a>
 
 So, you're working on a big repo with a lot of changes upstream every day and then you run a `git fetch` command and get a output like this:
 
@@ -23,7 +26,7 @@ But there is a one-liner that may fix it more efficiently without needing to dow
 
 ## Solution
 
-### tldr
+<h3 id="tldr">tldr</h3>
 
 ```bash
 git fsck --lost-found | grep missing | awk '{print $3}' | xargs git fetch-pack <the origin repo URI>

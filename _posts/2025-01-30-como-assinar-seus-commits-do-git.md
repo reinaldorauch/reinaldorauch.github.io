@@ -11,7 +11,7 @@ do git eu posso me passar por outra pessoa?
 
 ![print do post do @wilcorrea.dev no bluesky se perguntando se as pessoas sabem que por default dá pra commitar por outra pessoa no git](../assets/wilcorrea-dev-git-impersonation-problem.png)
 
-A resposta é SIM! Como o [@wilcorrea.dev](https://willcorrea.dev) salientou,vc
+A resposta é SIM! Como o [@wilcorrea.dev](https://bsky.app/profile/wilcorrea.dev) salientou,vc
 pode comitar com qualquer email e/ou nome que o git aceita de boa, é tipo botar
 o nome do coleguinha no trabalho em vez do teu. O papel não vai impedir vc de
 fazer isso mas dependendo do contexto isso pode ficar bem óbvio.
@@ -164,3 +164,12 @@ PS: Segue os links que eu usei de referência para escrever essa thread:
 - [Como criar uma nova chave gpg no terminal (em inglês)](https://unix.stackexchange.com/questions/481939/how-to-export-a-gpg-private-key-and-public-key-to-a-file)
 - [Como verificar as assinatura dos commits no terminal (em inglês)](https://stackoverflow.com/questions/17371955/verifying-signed-git-commits)
 - [Como adicionar uma chave pública ao chaveiro local no terminal (em inglês)](https://superuser.com/questions/999286/how-to-install-public-keys-with-gpg)
+
+PS2: Como bem [comentado](https://bsky.app/profile/wilcorrea.dev/post/3lgxzlefitk2t) pelo [@wilcorrea.dev](https://bsky.app/profile/wilcorrea.dev)
+novamente, pode-se gerar a chave pgp mais rapidamente usando o comando:
+
+```sh
+gpg --quick-gen-key 'Jon Doe <jon.doe@example.org>'
+```
+
+Valeu Wil!

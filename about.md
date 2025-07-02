@@ -23,6 +23,7 @@ created in this process.
 ## CV
 
 [This is my CV](../assets/Resume-Reinaldo-Rauch.v2.pdf)
+[Check the sigature:](../assets/Resume-Reinaldo-Rauch.v2.pdf.gpg)
 
 ## My public pgp key
 
